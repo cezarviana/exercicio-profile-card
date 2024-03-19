@@ -1,0 +1,67 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    color: hsl(227, 10%, 46%);
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile-card{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    width: 380px;
+    height: 320px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.informacoes-pessoais{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height:75%;
+    border-bottom: solid 3px hsl(0, 4%, 78%);
+    padding: 15px;
+}
+
+.foto-pessoal{
+   border-radius: 50%;
+   width: 100px;
+}
+
+.nome-idade{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.nome{
+    padding: 5px;
+}
+
+.idade{
+    font-weight: 700;
+}
+
+.informacoes-web{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 25%;
+  
+}
+
+.bold{
+    font-weight: 700;
+    color: black;
+}
+

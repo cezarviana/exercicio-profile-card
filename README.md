@@ -4,6 +4,8 @@ Um projeto para testar o conhecimento de Git Bash, HTML e  CSS, principalmente F
 
 Descrição da tarefa: O principal desafio é criar um cartão que contenha as informações de perfil. Para aprimorar as habilidades de posicionamento de elementos usando flexbox.
 
+A vantagem do Flexbox é a adaptabilidade. Independente do tamanho da tela do usuário, os elementos serão mostrados de maneira correta.
+
 ## Informações do Design a ser seguido
 
 ### Font family para ser usada no projeto:

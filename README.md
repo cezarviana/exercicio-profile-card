@@ -19,7 +19,7 @@ Descrição da tarefa: O principal desafio é criar um cartão que contenha as i
 
 ### Imagens do Design a ser seguido
 <div align="center">
-<img src="Design/design-desktop.png" style="height: 300px;">
+<img src="Design/design-desktop.png" style="height: 300px;"> <br>
 <img src="Design/design-mobile.png" style="height: 300px; text-align: center;">
 </div>
 

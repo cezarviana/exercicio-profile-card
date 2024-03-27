@@ -2,7 +2,7 @@
 
 Um projeto para testar o conhecimento de Git Bash, HTML e  CSS, principalmente Flexbox 🔥
 
-Descrição da tarefa: O principal desafio é criar um cartão que contenha as informações de perfil. Para ser aprimorado as habilidades de posicionamento de elementos usando flexbox.
+Descrição da tarefa: O principal desafio é criar um cartão que contenha as informações de perfil. Para aprimorar as habilidades de posicionamento de elementos usando flexbox.
 
 ## Informações do Design a ser seguido
 
@@ -18,12 +18,16 @@ Descrição da tarefa: O principal desafio é criar um cartão que contenha as i
 ***
 
 ### Imagens do Design a ser seguido
-<img src="Design/design-desktop.png">
-<img src="Design/design-mobile.png" style="height: 300px;  justify-content: center;">
+<div align="center">
+<img src="Design/design-desktop.png" style="height: 300px;">
+<img src="Design/design-mobile.png" style="height: 300px; text-align: center;">
+</div>
 
 ## Imagens do Design criado
-<img src="Design/1-desktop.png">
-<img src="Design/1-smartphone.png" style="height: 300px;  justify-content: center;">
+<div align="center">
+<img src="Design/1-desktop.png"  style="height: 300px; text-align: center;">
+<img src="Design/1-smartphone.png"  style="height: 300px; text-align: center;">
+</div>
 
 
 <!-- [<img src="./fullmetalAlchemist.gif" alt="gif da tela do site">](https://cezarviana.github.io/projeto-fullmetal-alchemist-personagens/) -->

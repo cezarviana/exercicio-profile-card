@@ -18,8 +18,8 @@ body{
     display: flex;
     flex-direction: column;
     align-content: space-around;
-    width: 330px;
-    height: 300px;
+    width: 350px;
+    height: 360px;
     background-color: #fff;
     border-radius: 20px;
     margin: 20px;

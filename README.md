@@ -2,11 +2,10 @@
 
 Um projeto para testar o conhecimento de Git Bash, HTML e  CSS, principalmente Flexbox 🔥
 
-Descrição da tarefa: O principal desafio é criar um cartão que contenha as informações de perfil. Para aprimorar as habilidades de posicionamento de elementos usando flexbox.
-
 A vantagem do Flexbox é a adaptabilidade. Independente do tamanho da tela do usuário, os elementos serão mostrados de maneira correta.
 
-## Informações do Design a ser seguido
+## Descrição da tarefa
+O principal desafio é criar um cartão que contenha as informações de perfil. Para aprimorar as habilidades de posicionamento de elementos usando flexbox.
 
 ### Font family para ser usada no projeto:
 
@@ -46,7 +45,3 @@ A vantagem do Flexbox é a adaptabilidade. Independente do tamanho da tela do us
 git clone <https://github.com/cezarviana/exercicio-profile-card.git>
 ***
 
-2 - Acessar a pasta do projeto
-***
-cd exercicio-profile-card
-***

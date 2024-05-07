@@ -20,14 +20,14 @@ O principal desafio é criar um cartão que contenha as informações de perfil.
 
 ### Imagens do Design a ser seguido
 <div align="center">
-<img src="./design/design-desktop.png" style="height: 300px;"> <br>
-<img src="./design/design-mobile.png" style="height: 300px; text-align: center;">
+<img src="src/design/design-desktop.png" style="height: 300px;"> <br>
+<img src="src/design/design-mobile.png" style="height: 300px; text-align: center;">
 </div>
 
 ## Imagens do Design criado
 <div align="center">
-<img src="./design/1-desktop.png"  style="height: 300px; text-align: center;">
-<img src="./design/1-smartphone.png"  style="height: 300px; text-align: center;">
+<img src="src/design/1-desktop.png"  style="height: 300px; text-align: center;">
+<img src="src/design/1-smartphone.png"  style="height: 300px; text-align: center;">
 </div>
 
 ## Tecnologias utilizadas
